@@ -1,10 +1,10 @@
 <?php
 // MySQLi credentials config
-$DB_username = 's5525620';
-$DB_password = 'xjFAR3HjVmULPyUTzoHozzqKXfzdp7Ey';
-$DB_host = 'db.bucomputing.uk';
-$DB_port = 6612;
-$DB = 's5525620';
+$DB_username = '***';
+$DB_password = '***';
+$DB_host = '***';
+$DB_port = ***;
+$DB = '***';
 
 // Open database connection
     // Initialise SQL
